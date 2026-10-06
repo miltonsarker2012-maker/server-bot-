@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anuvab171.mcsh.io",
+    "ip": "ego.mcsh.io",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
