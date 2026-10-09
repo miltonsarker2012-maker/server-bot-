@@ -30,10 +30,9 @@
       "enabled": false,
       "repeat": false,
       "repeat-delay": 120,
-      "messages": Thank You For Join,
-      [
-       
-    },
+      "messages": Thank You For Join, 
+      },
+  
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 5,
